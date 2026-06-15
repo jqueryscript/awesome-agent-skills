@@ -1,9 +1,19 @@
 # Awesome Agent Skills
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-curated-2563eb)
+![Sorted by Stars](https://img.shields.io/badge/sorted%20by-GitHub%20stars-111827)
+![AI Agents](https://img.shields.io/badge/for-coding%20agents-16a34a)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-7c3aed)
+![Codex](https://img.shields.io/badge/Codex-compatible-0f766e)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
+
 A curated directory of high-star Agent Skills for coding agents and adjacent AI workflows.
 
 ## Contents
 
+- [Related ScriptByAI Guides](#related-scriptbyai-guides)
 - [Official Skills](#official-skills)
 - [Skill Collections](#skill-collections)
 - [Coding and Refactoring Skills](#coding-and-refactoring-skills)
@@ -25,6 +35,7 @@ A curated directory of high-star Agent Skills for coding agents and adjacent AI 
 - [Workflow Automation Skills](#workflow-automation-skills)
 - [Skill Builders](#skill-builders)
 - [Plugin Skill Packs](#plugin-skill-packs)
+- [Related Resources](#related-resources)
 
 ## Official Skills
 
@@ -253,3 +264,11 @@ A curated directory of high-star Agent Skills for coding agents and adjacent AI 
 ## Plugin Skill Packs
 
 - [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ⭐ 2.4k - 270+ Claude Code plugins with 739 agent skills.
+
+## Related Resources
+
+- [High-Star Agent Skills on GitHub for Coding Agents](https://www.scriptbyai.com/best-agent-skills/) - The companion article with category notes and reader-focused context.
+- [Claude Code Resource List](https://www.scriptbyai.com/claude-code-resource-list/) - A broader directory of Claude Code tools, skills, workflows, and community resources.
+- [AI CLI Coding Agents](https://www.scriptbyai.com/ai-cli-coding-agents/) - A practical comparison of command-line coding agents for development work.
+- [Claude Code Cheat Sheet](https://www.scriptbyai.com/claude-code-cheat-sheet/) - Common commands and workflow patterns for daily Claude Code use.
+- [Awesome MCP Servers](https://www.scriptbyai.com/awesome-mcp-servers/) - A curated MCP server directory for adding external tools and data sources to agents.
