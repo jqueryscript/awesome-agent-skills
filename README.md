@@ -13,7 +13,6 @@ A curated directory of high-star Agent Skills for coding agents and adjacent AI 
 
 ## Contents
 
-- [Related ScriptByAI Guides](#related-scriptbyai-guides)
 - [Official Skills](#official-skills)
 - [Skill Collections](#skill-collections)
 - [Coding and Refactoring Skills](#coding-and-refactoring-skills)
