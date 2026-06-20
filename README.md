@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 200 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 201 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -327,6 +327,7 @@ Workflow projects coordinate agents, route work, preserve context, and connect c
 - [skill-codex](https://github.com/skills-directory/skill-codex) | ⭐ 1.3k - A claude code skill to delegate prompts to codex.
 - [second-brain-skills](https://github.com/coleam00/second-brain-skills) | ⭐ 768 - Claude Skills collection for second-brain style memory and knowledge workflows.
 - [claude-code-voice-skill](https://github.com/abracadabra50/claude-code-voice-skill) | ⭐ 166 - Voice-based Claude Code interaction for discussing projects by phone.
+- [ax](https://github.com/Necmttn/ax) | ⭐ 33 - Local-first telemetry and memory graph for Claude Code and Codex sessions, skills, hooks, costs, and workflow recall.
 
 ## Skill Builders
 
@@ -430,7 +431,7 @@ Check the skill structure, installation steps, scripts, hooks, dependencies, per
 
 ### June 20, 2026
 
-- Added new Agent Skills and related tools, bringing the directory to 200 listed items.
+- Added new Agent Skills and related tools, bringing the directory to 201 listed items.
 - Added Industry Skills for domain-specific legal and automotive skill packs.
 
 ### June 17, 2026
