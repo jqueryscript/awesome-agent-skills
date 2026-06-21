@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 200 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 217 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -48,6 +48,24 @@ Most entries come from popular public GitHub repositories and are grouped by dev
 ## Official Skills
 
 First-party skill files are the best fit for vendor APIs, model ecosystems, and product-specific rules.
+
+- [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) | ⭐ 153.4k - Anthropic's official skill for p5.js algorithmic art, seeded randomness, parameter exploration, flow fields, and particle systems.
+- [brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) | ⭐ 153.4k - Anthropic's official skill for applying Anthropic brand colors, typography, and visual standards to artifacts.
+- [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) | ⭐ 153.4k - Anthropic's official skill for creating original static visual designs, posters, artwork, PNG files, and PDF designs.
+- [claude-api](https://github.com/anthropics/skills/tree/main/skills/claude-api) | ⭐ 153.4k - Anthropic's official Claude API reference skill for SDK usage, model IDs, pricing, streaming, tool use, MCP, agents, caching, token counting, and migrations.
+- [doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) | ⭐ 153.4k - Anthropic's official workflow for drafting and refining documentation, proposals, technical specs, and decision documents.
+- [docx](https://github.com/anthropics/skills/tree/main/skills/docx) | ⭐ 153.4k - Anthropic's official skill for creating, reading, editing, formatting, and reorganizing Microsoft Word documents.
+- [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) | ⭐ 153.4k - Anthropic's official frontend design skill for aesthetic direction, typography, layout judgment, and less generic UI work.
+- [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) | ⭐ 153.4k - Anthropic's official skill for internal communications such as status reports, leadership updates, newsletters, FAQs, incident reports, and project updates.
+- [mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) | ⭐ 153.4k - Anthropic's official guide for building MCP servers that connect LLMs to external APIs and services through well-designed tools.
+- [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) | ⭐ 153.4k - Anthropic's official skill for reading, creating, splitting, merging, rotating, watermarking, encrypting, extracting from, and OCR-processing PDF files.
+- [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) | ⭐ 153.4k - Anthropic's official skill for creating, reading, editing, combining, and restructuring PowerPoint presentations.
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | ⭐ 153.4k - Anthropic's official skill for creating new skills, improving existing skills, running evaluations, and tuning skill descriptions.
+- [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | ⭐ 153.4k - Anthropic's official skill for creating animated GIFs sized and validated for Slack.
+- [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | ⭐ 153.4k - Anthropic's official theming toolkit for styling slides, documents, reports, HTML pages, and other artifacts.
+- [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | ⭐ 153.4k - Anthropic's official skill for building complex claude.ai HTML artifacts with React, Tailwind CSS, shadcn/ui, routing, and state management.
+- [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | ⭐ 153.4k - Anthropic's official Playwright-based skill for testing local web apps, checking frontend behavior, capturing screenshots, and reading browser logs.
+- [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) | ⭐ 153.4k - Anthropic's official skill for opening, editing, cleaning, formatting, charting, and creating spreadsheet files.
 
 - [Google Agent Skills](https://github.com/google/skills) | ⭐ 13.5k - Agent Skills for Google products and technologies.
 - [gsap-skills](https://github.com/greensock/gsap-skills) | ⭐ 8.9k - Official GSAP guidance for AI coding agents, including best practices, animation patterns, and plugin usage.
@@ -427,6 +445,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill'
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### June 21, 2026
+
+- Added Anthropic's official Skills as individual directory entries, bringing the directory to 217 listed items.
 
 ### June 20, 2026
 
