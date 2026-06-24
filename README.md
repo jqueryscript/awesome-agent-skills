@@ -1,4 +1,4 @@
-# Awesome Agent Skills
+﻿# Awesome Agent Skills
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Agent Skills](https://img.shields.io/badge/Agent%20Skills-curated-2563eb)
@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 269 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 303 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -75,6 +75,11 @@ First-party skill files are the best fit for vendor APIs, model ecosystems, and 
 - [kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | ⭐ 886 - Official Kotlin skills for AI agents working in Kotlin projects.
 - [langchain-skills](https://github.com/langchain-ai/langchain-skills) | ⭐ 814 - Official LangChain skills for building agents with LangChain, LangGraph, and Deep Agents.
 - [getsentry/skills](https://github.com/getsentry/skills) | ⭐ 807 - Agent Skills used by the Sentry team for development workflows.
+- [Oracle Skills](https://github.com/oracle/skills) | ⭐ 691 - Oracle's open-source skill collection for developers, administrators, and AI agents working across Oracle technologies.
+- [Laravel Agent Skills](https://github.com/laravel/agent-skills) | ⭐ 658 - Laravel's official agent skills for building applications with Laravel conventions and tooling.
+- [skills-for-fabric](https://github.com/microsoft/skills-for-fabric) | ⭐ 632 - Microsoft skills and MCP systems for operating Microsoft Fabric from CLI, VS Code, Claude, and related agent tools.
+- [MicrosoftDocs Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills) | ⭐ 617 - Microsoft Learn-backed Agent Skills for Azure and Microsoft development workflows.
+- [sf-skills](https://github.com/forcedotcom/sf-skills) | ⭐ 604 - Salesforce's curated agent skills for building applications with Agentforce Vibes and compatible AI tools.
 - [skills](https://github.com/inference-sh/skills) | ⭐ 538 - inference.sh Agent skills for connecting agents to hundreds of apps and other agents through its API.
 - [GLM-skills](https://github.com/zai-org/GLM-skills) | ⭐ 411 - Official skills for the GLM family of models.
 - [BFL Agent Skills](https://docs.bfl.ai/api_integration/skills_integration) - Reusable capabilities that teach AI agents how to work with FLUX models.
@@ -117,7 +122,7 @@ Collections show how different authors package instructions, scripts, examples, 
 Cleaner code changes matter here: smaller diffs, simpler structure, fewer unnecessary edits, and practical engineering habits.
 
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐ 173k - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [graphify](https://github.com/safishamsi/graphify) | ⭐ 65.5k - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae).
+- [](https://github.com/safishamsi/graphify) | ⭐ 65.5k - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae).
 - [agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 54.1k - Production-grade engineering skills for AI coding agents.
 - [ponytail](https://github.com/DietrichGebert/ponytail) | ⭐ 11.1k - A senior-developer style for Claude Code that favors less code, fewer moving parts, and fewer unnecessary changes.
 - [Waza](https://github.com/tw93/Waza) | ⭐ 5.7k - Familiar engineering habits packaged as Claude skills.
@@ -125,20 +130,23 @@ Cleaner code changes matter here: smaller diffs, simpler structure, fewer unnece
 - [agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices) | ⭐ 2k - Engineering and agent rules distilled from classic software books and best-practice guides.
 - [agent-rules-books](https://github.com/ciembor/agent-rules-books) | ⭐ 1.9k - Book-derived programming rules for AI agents, covering architecture, refactoring, testing, and software design habits.
 - [adhd](https://github.com/UditAkhourii/adhd) | ⭐ 804 - A skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK.
+- [antivibe](https://github.com/mohi-devhub/antivibe) | ⭐ 649 - Claude Code skill that explains AI-generated code in depth so developers understand the implementation before accepting it.
 - [napkin](https://github.com/blader/napkin) | ⭐ 549 - Persistent per-repo scratchpad for recording Claude Code mistakes and lessons.
-- [solid-skills](https://github.com/ramziddin/solid-skills) | ⭐ 443 - AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
+- [**solid-skills**](https://github.com/ramziddin/solid-skills) | ⭐ 443 - AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
 
 ## UI and Design Skills
 
 This group is about layout judgment, interface polish, interaction quality, and screens that feel native to the product.
 
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 90.4k - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) | ⭐ 41.4k - A collection of skills that improve how AI tools write frontend code.
+- [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | ⭐ 41.4k - A collection of skills that improve how AI tools write frontend code.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) | ⭐ 2.6k - Design-focused Claude Code skills for frontend work, animation, and product interface polish.
 - [designer-skills](https://github.com/Owl-Listener/designer-skills) | ⭐ 1.6k - Design-agent skills for stronger UI judgment, visual direction, and product design output.
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) | ⭐ 1.3k - Curated design skill files for agentic design tools, Codex, Cursor, Claude Design, and related AI tools.
 - [material-3-skill](https://github.com/hamen/material-3-skill) | ⭐ 1k - Material Design 3 skill for components, design tokens, theming, responsive layout, and compliance review.
 - [ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) | ⭐ 826 - UI component knowledge for AI agents, covering layout patterns, best practices, and design-system conventions.
+- [design-motion-principles](https://github.com/kylezantos/design-motion-principles) | ⭐ 745 - Motion design skill for interactive components and animation audits, based on practical motion principles from published designers.
+- [hue](https://github.com/dominikmartn/hue) | ⭐ 719 - Brand-learning design-system skill for Claude Code and Codex, aimed at consistent UI output across product screens.
 
 ## Code Review Skills
 
@@ -175,7 +183,7 @@ Browser automation projects open pages, inspect state, run Playwright or Chrome,
 
 Security projects focus on vulnerability analysis, threat modeling, offensive and defensive workflows, CTF checks, and secure coding review.
 
-- [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | ⭐ 15.4k - 753+ structured cybersecurity skills for AI agents.
+- [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | ⭐ 15.4k - 753+ structured cybersecurity skills for AI agents.
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) | ⭐ 8.4k - NVIDIA security scanner for inspecting AI agent skills, commands, hooks, agents, and MCP configurations.
 - [skills](https://github.com/trailofbits/skills) | ⭐ 5.7k - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [raptor](https://github.com/gadievron/raptor) | ⭐ 3k - Raptor configures Claude Code for offensive and defensive security work through Claude.md, rules, sub-agents, skills, and security tools.
@@ -188,6 +196,8 @@ Security projects focus on vulnerability analysis, threat modeling, offensive an
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) | ⭐ 943 - Secure-coding guidance for Claude, focused on common vulnerability prevention.
 - [vibe-security-skill](https://github.com/raroque/vibe-security-skill) | ⭐ 785 - Security audit skill for finding common vulnerabilities in apps built with AI coding assistants.
 - [iothackbot](https://github.com/BrownFineSecurity/iothackbot) | ⭐ 785 - Claude Skills and custom tooling for hybrid IoT penetration testing workflows.
+- [Claude-Skills-GRC](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance) | ⭐ 680 - Governance, risk, and compliance skills for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST, PCI DSS, EU AI Act, and related frameworks.
+- [sast-skills](https://github.com/utkusen/sast-skills) | ⭐ 672 - Agent skills that guide AI coding assistants through static application security testing workflows.
 - [awesome-dfir-skills](https://github.com/tsale/awesome-dfir-skills) | ⭐ 316 - A curated collection of DFIR skills and workflows for InfoSec practitioners.
 - [skill-threat-modeling](https://github.com/fr33d3m0n/skill-threat-modeling) | ⭐ 310 - Code-first deep risk analysis skill with STRIDE threat modeling and security review workflows.
 
@@ -197,7 +207,7 @@ Writing projects shape code, research, and rough notes into technical docs, long
 
 - [humanizer](https://github.com/blader/humanizer) | ⭐ 23.7k - A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 - [stop-slop](https://github.com/hardikpandya/stop-slop) | ⭐ 10k - A skill file for removing AI tells from prose.
-- [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | ⭐ 4.6k - A Claude Code skill for converting a codebase into an interactive single-page HTML course for non-technical vibe coders.
+- [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) | ⭐ 4.6k - A Claude Code skill for converting a codebase into an interactive single-page HTML course for non-technical vibe coders.
 - [Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | ⭐ 3.7k - Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | ⭐ 1.9k - Writing skill for removing generic AI prose patterns and making technical content read more naturally.
 - [tutor-skills](https://github.com/bevibing/tutor-skills) | ⭐ 974 - Claude Code skill that turns PDFs, documents, and codebases into Obsidian study vaults.
@@ -205,12 +215,15 @@ Writing projects shape code, research, and rough notes into technical docs, long
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | ⭐ 798 - Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
 - [translate-book](https://github.com/deusyu/translate-book) | ⭐ 794 - Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.
 - [claude-office-skills](https://github.com/tfriedel/claude-office-skills) | ⭐ 735 - Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, PDF, and automation workflows.
+- [sciwrite](https://github.com/labarba/sciwrite) | ⭐ 718 - Scientific manuscript writing and review skill based on Dr. Kristin Sainani's Writing in the Sciences methodology.
+- [journal-adapt-writing-skill](https://github.com/WantongC/journal-adapt-writing-skill) | ⭐ 657 - Academic writing skill that studies a journal's published papers and revises manuscripts to match its conventions.
+- [llm-wiki-skill](https://github.com/lewislulu/llm-wiki-skill) | ⭐ 600 - Karpathy-style LLM knowledge-base skill for Codex, OpenClaw, and related coding agents.
 
 ## Research Skills
 
 Research projects gather, compare, and synthesize information before writing, coding, or recommendations.
 
-- [last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ 39.6k - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
+- [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | ⭐ 39.6k - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | ⭐ 30.2k - Academic Research Skills for Claude Code: research → write → review → revise → finalize.
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ⭐ 28k - A set of ready-to-use scientific skills for Claude.
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 28k - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
@@ -224,6 +237,8 @@ Research projects gather, compare, and synthesize information before writing, co
 - [Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) | ⭐ 1.3k - Deep research skill for Claude Code, OpenCode, and Codex, with structured research steps and human review points.
 - [x-research-skill](https://github.com/rohunvora/x-research-skill) | ⭐ 1.1k - X/Twitter research skill for Claude Code and OpenClaw.
 - [claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) | ⭐ 791 - Deep research skill for Claude Code, with an eight-phase pipeline, source credibility scoring, and validation checks.
+- [user-research-skill](https://github.com/cookiy-ai/user-research-skill) | ⭐ 719 - User research skill for AI interviews, synthetic users, quantitative surveys, and participant recruitment workflows.
+- [research-skills](https://github.com/luwill/research-skills) | ⭐ 677 - Research workflow skills built from common research processes, experience, and repeatable methods.
 - [google-ai-mode-skill](https://github.com/PleasePrompto/google-ai-mode-skill) | ⭐ 177 - Claude Code skill for free Google AI Mode search with citations.
 
 ## Data Analysis Skills
@@ -234,18 +249,19 @@ Data projects inspect structured data, CSV files, and financial information, the
 - [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐ 2k - Claude Code trading skills for market analysis, strategy review, risk checks, and trading workflow research.
 - [AlphaGBM/skills](https://github.com/AlphaGBM/skills) | ⭐ 1k - Real-data options intelligence skills for AI agents, with workflows for market research and trading analysis.
 - [Day1Global-Skills](https://github.com/star23/Day1Global-Skills) | ⭐ 928 - Market skills for U.S. stocks, macro analysis, and crypto research.
-- [qmd-skill](https://github.com/levineam/qmd-skill) | ⭐ 689 - A Codex/Clawd skill definition for qmd (Quick Markdown Search).
+- [qmd-skill](https://github.com/levineam/qmd-skill) | ⭐ 689 - A Codex/Clawd skill definition for **qmd** (Quick Markdown Search).
+- [buffett-skills](https://github.com/agi-now/buffett-skills) | ⭐ 641 - AI skills based on Warren Buffett's investing framework for business and finance analysis.
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | ⭐ 404 - A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
 
 ## Diagram and Visual Skills
 
 Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, animations, logos, and presentation-ready assets.
 
-- [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | ⭐ 21.3k - A Claude Code skill for creating stunning, animation-rich HTML presentations
+- [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) | ⭐ 21.3k - A Claude Code skill for creating stunning, animation-rich HTML presentations
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | ⭐ 16.6k - A Claude Code skill for horizontal-swipe, magazine-style HTML decks from prompts.
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | ⭐ 7.6k - Claude Code skill for generating production-quality SVG+PNG technical diagrams.
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) | ⭐ 6.1k - An open source harness for generating CAD models.
-- [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | ⭐ 5.9k - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations.
+- [**html-ppt-skill**](https://github.com/lewislulu/html-ppt-skill) | ⭐ 5.9k - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations.
 - [architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) | ⭐ 5.8k - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files.
 - [excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) | ⭐ 3.7k - Excalidraw diagram generation for Claude Code and other coding agents.
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | ⭐ 3.5k - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI).
@@ -264,9 +280,12 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [manim_skill](https://github.com/adithya-s-k/manim_skill) | ⭐ 907 - Agent skills for Manim to create 3Blue1Brown style animations.
 - [effective-html](https://github.com/plannotator/effective-html) | ⭐ 867 - Agent skill for clean HTML plans, architecture diagrams, and similar lightweight visual documents.
 - [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | ⭐ 796 - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.
+- [vibe-motion/skills](https://github.com/vibe-motion/skills) | ⭐ 757 - Agent skills for Vibe Motion workflows.
 - [banana-claude](https://github.com/AgriciDaniel/banana-claude) | ⭐ 751 - AI image generation skill for Claude Code, with creative direction powered by Gemini.
 - [Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) | ⭐ 749 - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
+- [pexo-skills](https://github.com/pexoai/pexo-skills) | ⭐ 737 - Open-source Agent Skills for content creation across images, audio, and video.
 - [pixel2motion](https://github.com/nolangz/pixel2motion) | ⭐ 624 - Codex and Claude skill for turning raster logos into SVG logo animations, HTML motion demos, and GIF/video previews.
+- [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | ⭐ 594 - Claude skill for academic presentations such as conference talks, seminar slides, thesis defenses, and grant briefings.
 - [nano-image-generator-skill](https://github.com/lxfater/nano-image-generator-skill) | ⭐ 126 - A Claude Code skill for image generation using Gemini 3 Pro Preview.
 - [remotion-dev/skills](https://www.remotion.dev/docs/ai/skills) - Create videos programmatically.
 
@@ -277,10 +296,11 @@ Search-focused projects handle page audits, citability checks, schema review, te
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) | ⭐ 32.9k - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [claude-seo](https://github.com/AgriciDaniel/claude-seo) | ⭐ 8.7k - Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
 - [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | ⭐ 8.1k - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.
-- [NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.8k - Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads.
+- [**NotFair**](https://github.com/nowork-studio/NotFair) | ⭐ 2.8k - Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads.
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | ⭐ 2.1k - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking.
 - [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) | ⭐ 1.2k - AEO and GEO checks for websites, with framework-aware fixes and AI-answer visibility review.
 - [claude-blog](https://github.com/AgriciDaniel/claude-blog) | ⭐ 1.1k - Blog workflow suite for Claude Code, with sub-skills, agents, ranking checks, and AI citation review.
+- [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) | ⭐ 690 - LLM-first SEO analysis skill for Antigravity, Codex, and Claude, with specialized SEO sub-skills, agents, and evidence-collection scripts.
 
 ## Marketing and Advertising Skills
 
@@ -294,7 +314,9 @@ Marketing projects deal with ads, campaign analysis, marketing review, and conte
 - [claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) | ⭐ 1.5k - Claude skill for App Store screenshot planning, ASO messaging, and app listing creative review.
 - [social-media-skills](https://github.com/charlie947/social-media-skills) | ⭐ 1.5k - Social media skills for content planning, platform-specific posts, review, and campaign workflows.
 - [openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) | ⭐ 1.1k - Marketing skill pack for OpenClaw agents, with campaign, content, and growth workflows.
-- [advertising-skills](https://github.com/realkimbarrett/advertising-skills) | ⭐ 663 - Advertising Skills for Open Claw, Claude Code & AI agents.
+- [goose-skills](https://github.com/gooseworks-ai/goose-skills) | ⭐ 766 - GTM skill library for Claude Code, Codex, and Cursor.
+- [**advertising-skills**](https://github.com/realkimbarrett/advertising-skills) | ⭐ 663 - Advertising Skills for Open Claw, Claude Code & AI agents.
+- [marketing-skills](https://github.com/kostja94/marketing-skills) | ⭐ 644 - Marketing skill library for SEO, content, page types, paid ads, channels, and strategy workflows.
 
 ## Industry Skills
 
@@ -307,12 +329,14 @@ Industry projects package domain rules for professional fields where generic cod
 - [bioSkills](https://github.com/GPTomics/bioSkills) | ⭐ 945 - Bioinformatics SKILLS.md files for agents such as Claude Code.
 - [opc-skills](https://github.com/ReScienceLab/opc-skills) | ⭐ 937 - Agent Skills for solopreneur workflows and independent business operations.
 - [ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) | ⭐ 851 - Career-focused agent skills for resume optimization, job applications, interview prep, and strategic job search.
+- [kicad-happy](https://github.com/aklofas/kicad-happy) | ⭐ 608 - KiCad electronics design skills for schematic analysis, PCB review, EMC checks, SPICE simulation, datasheets, sourcing, and fabrication prep.
+- [show-me-the-money](https://github.com/iamzifei/show-me-the-money) | ⭐ 595 - Claude Code skill suite for building and operating an automated business workflow from idea discovery to revenue generation.
 
 ## DevOps and CI Skills
 
 DevOps projects deal with build systems, infrastructure code, deployment checks, and CI/CD patterns in projects where mistakes are costly.
 
-- [terraform-skill](https://github.com/antonbabenko/terraform-skill) | ⭐ 2k - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns.
+- [**terraform-skill**](https://github.com/antonbabenko/terraform-skill) | ⭐ 2k - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns.
 - [Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) | ⭐ 1.1k - An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings.
 
 ## Cloud Development Skills
@@ -320,7 +344,7 @@ DevOps projects deal with build systems, infrastructure code, deployment checks,
 Cloud projects target AWS, Cloudflare, Supabase, Google Cloud, and other backend platforms.
 
 - [agents-cli](https://github.com/google/agents-cli) | ⭐ 2.8k - Google Cloud CLI and skills for creating, evaluating, and deploying AI agents with coding assistants.
-- [agent-skills](https://github.com/supabase/agent-skills) | ⭐ 2.2k - Supabase-specific Agent Skills for developers using AI agents.
+- [**agent-skills**](https://github.com/supabase/agent-skills) | ⭐ 2.2k - Supabase-specific Agent Skills for developers using AI agents.
 - [aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) | ⭐ 1.1k - Supercharge Claude Code with AWS cloud engineering skills across 18 core AWS services.
 - [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill) | ⭐ 724 - Comprehensive Cloudflare platform reference docs for AI/LLM consumption.
 
@@ -340,7 +364,12 @@ Framework projects teach stack-specific conventions for Next.js, Vue, Expo, Swif
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | ⭐ 1k - A Claude skill for developing WebGPU applications with Three.js.
 - [next-skills](https://github.com/vercel-labs/next-skills) | ⭐ 924 - Agent skills for common Next.js workflows.
 - [swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) | ⭐ 790 - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks.
+- [makepad-skills](https://github.com/ZhangHanDong/makepad-skills) | ⭐ 741 - Makepad and Rust skills for building cross-platform applications with AI coding agents.
 - [nuxt-skills](https://github.com/onmax/nuxt-skills) | ⭐ 679 - Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [37signals-skills](https://github.com/marckohlbrugge/37signals-skills) | ⭐ 662 - Unofficial Rails and 37signals reference skill based on Fizzy, Campfire, and DHH code-review patterns.
+- [library-skills](https://github.com/tiangolo/library-skills) | ⭐ 649 - Library-focused Agent Skills for coding assistants working with software libraries and their usage patterns.
+- [rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents) | ⭐ 604 - Modern Rails AI-development kit with skills, agents, rules, hooks, spec-driven workflows, and MCP components.
+- [angular-skills](https://github.com/analogjs/angular-skills) | ⭐ 596 - Agent Skills for Angular developers.
 
 ## Platform Skills
 
@@ -348,25 +377,26 @@ Platform projects are tied to products, ecosystems, devices, and runtimes with t
 
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) | ⭐ 35.3k - Claude Skills for use with Obsidian.
 - [hyperframes](https://github.com/heygen-com/hyperframes) | ⭐ 26.8k - Write HTML. Render video. Built for agents.
-- [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ⭐ 21.4k - A Claude Code game-dev studio setup with 49 AI agents, 72 workflow skills, and a coordination model based on studio roles.
+- [**Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) | ⭐ 21.4k - A Claude Code game-dev studio setup with 49 AI agents, 72 workflow skills, and a coordination model based on studio roles.
 - [huggingface/skills](https://github.com/huggingface/skills) | ⭐ 10.7k - Hugging Face ecosystem skills for AI agents.
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | ⭐ 7k - Claude Code skill for direct communication with Google NotebookLM notebooks.
 - [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | ⭐ 6k - Claude Code skill for Android app reverse engineering.
 - [stitch-skills](https://github.com/google-labs-code/stitch-skills) | ⭐ 6k - A library of Agent Skills designed to work with the Stitch MCP server.
-- [n8n-skills](https://github.com/czlonkowski/n8n-skills) | ⭐ 5.4k - n8n skillset for Claude Code to build flawless n8n workflows
+- [](https://github.com/czlonkowski/n8n-skills) | ⭐ 5.4k - n8n skillset for Claude Code to build flawless n8n workflows
 - [godogen](https://github.com/htdt/godogen) | ⭐ 3.4k - Claude Code skills that build complete Godot 4 projects from a game description.
 - [GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | ⭐ 2.9k - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing.
 - [gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill) | ⭐ 2.9k - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing.
 - [skills](https://github.com/microsoft/skills) | ⭐ 2.5k - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) | ⭐ 2.1k - Agent skill for writing effective Seedance 2.0 video-generation prompts, including constraints, camera language, prompt patterns, and templates.
-- [Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) | ⭐ 2k - A curated directory of open-source AI agent skills for Swift and Apple platform development.
-- [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | ⭐ 1.9k - Seedance 2.0 prompt-engineering skill for Claude Code, built for ByteDance's Seedance 2.0 (即梦) video generation platform.
+- [**Swift-Agent-Skills**](https://github.com/twostraws/Swift-Agent-Skills) | ⭐ 2k - A curated directory of open-source AI agent skills for Swift and Apple platform development.
+- [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | ⭐ 1.9k - Seedance 2.0 prompt-engineering skill for Claude Code, built for ByteDance's **Seedance 2.0** (即梦) video generation platform.
 - [agent-skills](https://github.com/WordPress/agent-skills) | ⭐ 1.7k - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices.
-- [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | ⭐ 1.1k - An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, without using up any of the available token/context budget.
+- [**ios-simulator-skill**](https://github.com/conorluddy/ios-simulator-skill) | ⭐ 1.1k - An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, without using up any of the available token/context budget.
 - [Pika-Skills](https://github.com/Pika-Labs/Pika-Skills) | ⭐ 1.1k - A collection of open-source skills for AI coding agents (Claude Code, OpenClaw, etc.) powered by the Pika Developer API.
 - [Axiom](https://github.com/CharlesWiltgen/Axiom) | ⭐ 964 - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development.
-- [synalinks-skills](https://github.com/SynaLinks/synalinks-skills) | ⭐ 899 - Claude skills for Synalinks.
+- [**synalinks-skills**](https://github.com/SynaLinks/synalinks-skills) | ⭐ 899 - Claude skills for Synalinks.
 - [app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) | ⭐ 871 - Skills for automating App Store Connect deployment and related workflows with the asc CLI.
+- [macos-app-skills](https://github.com/fayazara/macos-app-skills) | ⭐ 598 - AI coding-agent skills for building, shipping, and maintaining native macOS apps.
 - [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) | ⭐ 518 - Claude Code skill for modern Solana development.
 - [claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) | ⭐ 424 - Claude Code skill to manage and automate Home Assistant workflows.
 
@@ -374,7 +404,7 @@ Platform projects are tied to products, ecosystems, devices, and runtimes with t
 
 Workflow projects coordinate agents, route work, preserve context, and connect coding sessions to other tools.
 
-- [caveman](https://github.com/JuliusBrussee/caveman) | ⭐ 71.4k - Claude Code/Codex skill and plugin for much shorter agent responses while preserving technical accuracy.
+- [**caveman**](https://github.com/JuliusBrussee/caveman) | ⭐ 71.4k - Claude Code/Codex skill and plugin for much shorter agent responses while preserving technical accuracy.
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ⭐ 57.2k - Interactive codebase knowledge graph for Claude Code, with exploration, search, and Q&A across compatible agents such as Codex.
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | ⭐ 23k - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [herdr](https://github.com/ogulcancelik/herdr) | ⭐ 5.7k - agent multiplexer that lives in your terminal.
@@ -387,6 +417,7 @@ Workflow projects coordinate agents, route work, preserve context, and connect c
 - [AIS-OS](https://github.com/nateherkai/AIS-OS) | ⭐ 854 - AI Operating System starter kit for Claude Code, with onboarding, auditing, and level-up skills.
 - [second-brain-skills](https://github.com/coleam00/second-brain-skills) | ⭐ 781 - Claude Skills collection for second-brain style memory and knowledge workflows.
 - [claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) | ⭐ 753 - Claude Code skill that routes decisions through five AI advisors with peer review.
+- [second-brain-starter](https://github.com/coleam00/second-brain-starter) | ⭐ 629 - Starter skill for creating a personalized PRD for a proactive, persistent AI second brain.
 - [claude-code-voice-skill](https://github.com/abracadabra50/claude-code-voice-skill) | ⭐ 166 - Voice-based Claude Code interaction for discussing projects by phone.
 
 ## Skill Builders
@@ -415,7 +446,10 @@ Skill-builder projects create, install, manage, share, sync, and refine skills a
 - [EvoSkill](https://github.com/sentient-agi/EvoSkill) | ⭐ 952 - Open-source framework that discovers and synthesizes reusable agent skills from failed trajectories to improve coding-agent performance.
 - [claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | ⭐ 810 - Skill factory for generating structured Claude Skills, code agents, slash commands, and LLM prompts.
 - [skillsgate](https://github.com/skillsgate/skillsgate) | ⭐ 778 - Visual skill manager for browsing, installing, and managing AI agent skills across desktop and terminal workflows.
-- [SkillForge](https://github.com/tripleyak/SkillForge) | ⭐ 692 - A meta-skill for generating high-quality Claude Code skills.
+- [one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) | ⭐ 723 - Meta-skill that builds and improves skill files by capturing corrections, judgment calls, and reusable session patterns.
+- [SkillForge](https://github.com/tripleyak/SkillForge) | ⭐ 697 - Skill router and creator for Claude Code and Codex, with guidance for recommending, improving, or creating skills.
+- [upskill](https://github.com/huggingface/upskill) | ⭐ 688 - Hugging Face project for generating and evaluating agent skills for code agents such as Claude Code, OpenCode, and Codex.
+- [asm](https://github.com/luongnv89/asm) | ⭐ 637 - Universal skill manager for AI coding agents.
 - [claude-skills-supercharged](https://github.com/jefflester/claude-skills-supercharged) | ⭐ 40 - Supercharged Claude Code skills with prompt analysis, scoring, and automatic injection.
 
 ## Plugin Skill Packs
@@ -427,7 +461,7 @@ Plugin skill packs collect skills alongside Claude Code plugins, hooks, commands
 ## Agent Skills vs MCP Servers
 
 | Agent Skill | MCP Server |
-|---|---|
+| --- | --- |
 | Reusable task method. | Live connection to tools or data. |
 | Instructions, workflows, examples, and repeatable methods. | APIs, databases, browsers, files, and services. |
 | Optional scripts, templates, or references. | Structured capabilities exposed to the agent. |
@@ -435,7 +469,7 @@ Plugin skill packs collect skills alongside Claude Code plugins, hooks, commands
 ## Agent Skills vs Plugins
 
 | Agent Skill | Plugin |
-|---|---|
+| --- | --- |
 | One workflow or domain. | Several extension pieces in one package. |
 | Instructions, examples, scripts, or templates. | Skills, hooks, commands, agents, or MCP servers. |
 | Focused task behavior. | Larger tool setup or distribution package. |
@@ -443,7 +477,7 @@ Plugin skill packs collect skills alongside Claude Code plugins, hooks, commands
 ## Agent Skills vs Prompts
 
 | Agent Skill | Prompt |
-|---|---|
+| --- | --- |
 | Repeated workflows. | One-time requests. |
 | Reusable instructions, examples, and files in a skill folder. | Text that usually stays in the current chat or command. |
 | The same process across future tasks. | A simple or temporary task. |
@@ -451,7 +485,7 @@ Plugin skill packs collect skills alongside Claude Code plugins, hooks, commands
 ## Agent Skills vs Subagents
 
 | Agent Skill | Subagent |
-|---|---|
+| --- | --- |
 | Reusable task method. | Specialized role. |
 | Repeatable process. | Work routed to a focused agent. |
 | Instructions and resources. | Role-based review, planning, or execution. |
@@ -467,31 +501,31 @@ Plugin skill packs collect skills alongside Claude Code plugins, hooks, commands
 
 ## Related Resources
 
-- [Claude Code Resource List](https://www.scriptbyai.com/claude-code-resource-list/) - A Claude Code resource hub with agents, skills, plugins, MCP tools, GUIs, SDKs, usage tools, and alternatives.
-- [Claude Code Commands Cheat Sheet](https://www.scriptbyai.com/claude-code-commands-cheat-sheet/) - Check Claude Code commands, slash commands, and workflow references.
-- [Best CLI AI Coding Agents](https://www.scriptbyai.com/best-cli-ai-coding-agents/) - Compare terminal-based AI coding agents for developer workflows.
-- [Best MCP Servers for Web Developers](https://www.scriptbyai.com/best-mcp-servers-web-developers/) - Find MCP servers for browser, database, design, documentation, and web development tasks.
-- [Anthropic Claude Timeline](https://www.scriptbyai.com/anthropic-claude-timeline/) - Track major Claude model and product releases.
+- [Claude Code Resource List](https://www.scriptbyai.com/claude-code-resource-list/)
+- [Claude Code Commands Cheat Sheet](https://www.scriptbyai.com/claude-code-commands-cheat-sheet/)
+- [Best CLI AI Coding Agents](https://www.scriptbyai.com/best-cli-ai-coding-agents/)
+- [Best MCP Servers for Web Developers](https://www.scriptbyai.com/best-mcp-servers-web-developers/)
+- [Anthropic Claude Timeline](https://www.scriptbyai.com/anthropic-claude-timeline/)
 
 ## FAQs
 
-### What is an Agent Skill?
+### **What is an Agent Skill?**
 
 An Agent Skill packages reusable instructions, context, scripts, templates, or workflow rules so an AI agent can repeat a task more consistently. In coding workflows, skill files often handle refactoring, frontend implementation, documentation, testing, code review, research, diagrams, automation, and platform-specific development.
 
-### Are Agent Skills only for Claude Code?
+### **Are Agent Skills only for Claude Code?**
 
 No. Claude Code is one of the most visible environments for Agent Skills, but the same idea can also apply to Codex, Copilot, OpenClaw, Hermes Agent, Claude.ai, and other compatible coding agents or personal agents.
 
-### Why does this directory focus on coding agents?
+### **Why does this directory focus on coding agents?**
 
 Many agent-skill directories mix software work with office tasks, personal productivity, content creation, and general assistant use cases. This directory narrows the list to coding-agent workflows such as code generation, refactoring, frontend work, testing, security, documentation, research, automation, and platform-specific engineering tasks.
 
-### Does a high star count mean a skill is safe?
+### **Does a high star count mean a skill is safe?**
 
-No. Star count is a popularity signal, not a safety guarantee. Review the skill's instructions, scripts, dependencies, file access, command access, and credential requirements before using it in a real project.
+No. Star count is a popularity signal, not a safety guarantee. Review the skill’s instructions, scripts, dependencies, file access, command access, and credential requirements before using it in a real project.
 
-### What should I check before using a skill?
+### **What should I check before using a skill?**
 
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
@@ -499,6 +533,7 @@ Check the skill structure, installation steps, scripts, hooks, dependencies, per
 
 ### June 24, 2026
 
+- Added new Agent Skills and related tools, bringing the directory to 303 listed items.
 - Added new Agent Skills and related tools, bringing the directory to 269 listed items.
 
 ### June 23, 2026
@@ -522,3 +557,4 @@ Check the skill structure, installation steps, scripts, hooks, dependencies, per
 ### June 15, 2026
 
 - Initial directory created for 160+ high-star Agent Skills on GitHub for coding agents.
+
