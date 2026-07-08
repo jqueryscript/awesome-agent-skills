@@ -118,8 +118,10 @@ Collections show how different authors package instructions, scripts, examples, 
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) | ⭐ 841 - General-purpose agent skills for OpenClaw and compatible agent workflows.
 - [BuilderIO/skills](https://github.com/BuilderIO/skills) | ⭐ 649 - Small, composable skills for coding agents covering planning, review, validation, orchestration, and clear communication.
 - [Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills) | ⭐ 563 - Community-driven AI agent skills for Claude Code, OpenCode, and other assistants, with curated patterns and shared contributions.
+- [dzhng/skills](https://github.com/dzhng/skills) | ⭐ 534 - Personal agent skill collection covering coding, research, browser work, graphics, and other reusable task workflows.
 - [agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) | ⭐ 511 - Agent Skills standards and best practices for common programming languages, frameworks, mobile stacks, and web application work.
 - [yichen-skills](https://github.com/mcncarl/yichen-skills) | ⭐ 504 - Personal skill collection for reusable agent workflows and task-specific instructions.
+- [awesome-pm-skills](https://github.com/menkesu/awesome-pm-skills) | ⭐ 371 - Product management skill collection based on Lenny's Podcast, with Claude Code and Cursor workflows for PM research, strategy, and shipping.
 - [happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) | ⭐ 295 - Practical skill plugins designed for Claude Code.
 - [claude-code-skills](https://github.com/whawkinsiv/claude-code-skills) | ⭐ 218 - End-to-end software development lifecycle skills for founders building SaaS with AI tools.
 
@@ -234,6 +236,7 @@ Writing projects shape code, research, and rough notes into technical docs, long
 - [llm-wiki-skill](https://github.com/lewislulu/llm-wiki-skill) | ⭐ 600 - Karpathy-style LLM knowledge-base skill for Codex, OpenClaw, and related coding agents.
 - [latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | ⭐ 533 - Universal LaTeX document skill with templates, scripts, and reference guides for academic, PDF, and resume document work.
 - [youtube-to-ebook](https://github.com/zarazhangrui/youtube-to-ebook) | ⭐ 490 - Claude skill that turns YouTube channel transcripts into scheduled EPUB ebooks delivered by email.
+- [academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | ⭐ 155 - Claude Code skill for revising academic text into more natural, human-sounding prose while preserving the manuscript's meaning.
 
 ## Research Skills
 
@@ -415,6 +418,7 @@ Framework projects teach stack-specific conventions for Angular, Next.js, Vue, E
 - [Angular Skills](https://github.com/angular/skills) | ⭐ 533 - Official Angular skills for modern app setup, architecture, components, services, routing, SSR, forms, testing, and CLI workflows.
 - [compose-skill](https://github.com/aldefy/compose-skill) | ⭐ 521 - Jetpack Compose skill with AndroidX source-backed guidance for Compose, Material 3, Kotlin, and multiplatform UI work.
 - [threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) | ⭐ 519 - Agent skills for playable Three.js browser games, covering gameplay, graphics, UI, QA, and asset workflows.
+- [VueUse Skills](https://github.com/vueuse/skills) | ⭐ 370 - Agent skills for Vue, Nuxt, Vite, Pinia, VueUse, and related frontend development workflows.
 
 ## Platform Skills
 
@@ -427,7 +431,7 @@ Platform projects are tied to products, ecosystems, devices, and runtimes with t
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | ⭐ 7k - Claude Code skill for direct communication with Google NotebookLM notebooks.
 - [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | ⭐ 6k - Claude Code skill for Android app reverse engineering.
 - [stitch-skills](https://github.com/google-labs-code/stitch-skills) | ⭐ 6k - A library of Agent Skills designed to work with the Stitch MCP server.
-- [qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | ⭐ 5.4k - Claude skill that prepares WeChat articles, web pages, YouTube videos, PDFs, Markdown, and search results for NotebookLM.
+- [qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | ⭐ 5.5k - Claude skill that prepares WeChat articles, web pages, YouTube videos, PDFs, Markdown, and search results for NotebookLM.
 - [n8n-skills](https://github.com/czlonkowski/n8n-skills) | ⭐ 5.4k - n8n skillset for Claude Code to build flawless n8n workflows
 - [godogen](https://github.com/htdt/godogen) | ⭐ 3.4k - Claude Code skills that build complete Godot 4 projects from a game description.
 - [GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | ⭐ 2.9k - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing.
@@ -497,6 +501,7 @@ Skill-builder projects create, install, manage, share, sync, and refine skills a
 - [waza](https://github.com/microsoft/waza) | ⭐ 1k - CLI and framework for creating, testing, measuring, and improving agent skills.
 - [n-skills](https://github.com/numman-ali/n-skills) | ⭐ 995 - Curated plugin marketplace for AI agents. Works with Claude Code, Codex, and openskills.
 - [EvoSkill](https://github.com/sentient-agi/EvoSkill) | ⭐ 952 - Open-source framework that discovers and synthesizes reusable agent skills from failed trajectories to improve coding-agent performance.
+- [self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) | ⭐ 848 - Claude Code skill that captures useful patterns during work and saves them as reusable project skills and rules.
 - [claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | ⭐ 810 - Skill factory for generating structured Claude Skills, code agents, slash commands, and LLM prompts.
 - [skillsgate](https://github.com/skillsgate/skillsgate) | ⭐ 778 - Visual skill manager for browsing, installing, and managing AI agent skills across desktop and terminal workflows.
 - [one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) | ⭐ 723 - Meta-skill that builds and improves skill files by capturing corrections, judgment calls, and reusable session patterns.
