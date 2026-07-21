@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 368 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 373 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -26,6 +26,7 @@ Most entries come from popular public GitHub repositories and are grouped by dev
 - [Documentation and Writing Skills](#documentation-and-writing-skills)
 - [Research Skills](#research-skills)
 - [Thinking and Reasoning Skills](#thinking-and-reasoning-skills)
+- [Productivity and Communication Skills](#productivity-and-communication-skills)
 - [Data Analysis Skills](#data-analysis-skills)
 - [Diagram and Visual Skills](#diagram-and-visual-skills)
 - [SEO and GEO Skills](#seo-and-geo-skills)
@@ -95,6 +96,7 @@ Collections show how different authors package instructions, scripts, examples, 
 
 - [Superpowers](https://github.com/obra/superpowers) | ⭐ 225k - A comprehensive Claude Code skills library built around proven techniques, patterns, and tools.
 - [mattpocock skills](https://github.com/mattpocock/skills) | ⭐ 125k - Skills for Real Engineers.
+- [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | ⭐ 43.7k - A large local catalog of agent skills, plugins, bundles, and installers, with tools for selecting, validating, and planning skill stacks.
 - [sickn33](https://github.com/sickn33/antigravity-awesome-skills) | ⭐ 40.4k - A collection of 130+ agentic skills for Claude Code, Antigravity, and Cursor.
 - [agent-skills](https://github.com/vercel-labs/agent-skills) | ⭐ 27.8k - A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
 - [claude-skills](https://github.com/alirezarezvani/claude-skills) | ⭐ 17.8k - A Collection of Skills for Claude Code and Claude AI for real-world Usage.
@@ -152,6 +154,7 @@ This group is about layout judgment, interface polish, interaction quality, and 
 
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 90.4k - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) | ⭐ 41.4k - A collection of skills that improve how AI tools write frontend code.
+- [scroll-world](https://github.com/oso95/scroll-world) | ⭐ 4.6k - Agent skill for building scroll-scrubbed, continuous 3D landing-page journeys with generated scenes and camera flights.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) | ⭐ 2.6k - Design-focused Claude Code skills for frontend work, animation, and product interface polish.
 - [make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | ⭐ 2k - Interface-detail skill based on practical UI refinements for interaction feel, layout, and polish.
 - [designer-skills](https://github.com/Owl-Listener/designer-skills) | ⭐ 1.6k - Design-agent skills for stronger UI judgment, visual direction, and product design output.
@@ -241,6 +244,7 @@ Writing projects shape code, research, and rough notes into technical docs, long
 - [llm-wiki-skill](https://github.com/lewislulu/llm-wiki-skill) | ⭐ 600 - Karpathy-style LLM knowledge-base skill for Codex, OpenClaw, and related coding agents.
 - [latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | ⭐ 533 - Universal LaTeX document skill with templates, scripts, and reference guides for academic, PDF, and resume document work.
 - [youtube-to-ebook](https://github.com/zarazhangrui/youtube-to-ebook) | ⭐ 490 - Claude skill that turns YouTube channel transcripts into scheduled EPUB ebooks delivered by email.
+- [Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill) | ⭐ 323 - Academic rebuttal skill that triages peer-review concerns, plans evidence-backed experiments, and drafts author responses without inventing results.
 - [academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | ⭐ 155 - Claude Code skill for revising academic text into more natural, human-sounding prose while preserving the manuscript's meaning.
 
 ## Research Skills
@@ -273,6 +277,12 @@ Reasoning projects give agents structured mental models, dialectic debate, and d
 
 - [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) | ⭐ 572 - Mental models and critical-thinking frameworks for Claude Code, including first principles, Bayesian reasoning, systems thinking, OODA, and pre-mortems.
 - [hegelian-dialectic-skill](https://github.com/KyleAMathews/hegelian-dialectic-skill) | ⭐ 557 - Dialectic reasoning skill that uses committed opposing positions and synthesis rounds to examine hard decisions, strategies, and ideas.
+
+## Productivity and Communication Skills
+
+Productivity and communication skills help agents present work in a clear order, with concise steps and a useful next action.
+
+- [i-have-adhd](https://github.com/ayghri/i-have-adhd) | ⭐ 6.2k - Output-style skill for clear, ADHD-friendly responses that lead with the action, number steps, and avoid unnecessary tangents.
 
 ## Data Analysis Skills
 
@@ -354,6 +364,7 @@ Marketing projects deal with ads, campaign analysis, marketing review, and conte
 - [claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) | ⭐ 1.5k - Claude skill for App Store screenshot planning, ASO messaging, and app listing creative review.
 - [social-media-skills](https://github.com/charlie947/social-media-skills) | ⭐ 1.5k - Social media skills for content planning, platform-specific posts, review, and campaign workflows.
 - [openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) | ⭐ 1.1k - Marketing skill pack for OpenClaw agents, with campaign, content, and growth workflows.
+- [codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) | ⭐ 878 - Codex skill that researches public demand signals, ranks potential first customers, drafts source-based outreach openers, and creates an HTML report without sending outreach.
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) | ⭐ 766 - GTM skill library for Claude Code, Codex, and Cursor.
 - [advertising-skills](https://github.com/realkimbarrett/advertising-skills) | ⭐ 663 - Advertising Skills for Open Claw, Claude Code & AI agents.
 - [marketing-skills](https://github.com/kostja94/marketing-skills) | ⭐ 644 - Marketing skill library for SEO, content, page types, paid ads, channels, and strategy workflows.
