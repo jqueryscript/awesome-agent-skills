@@ -613,6 +613,10 @@ Check the skill structure, installation steps, scripts, hooks, dependencies, per
 
 ## Changelog
 
+### July 21, 2026
+
+- Added 5 skills and related tools across collection, UI, writing, productivity, and marketing categories, bringing the directory to 373 listed items.
+
 ### July 14, 2026
 
 - Added 12 skills and related tools across collection, coding, UI, testing, visual, marketing, industry, platform, and skill-builder categories, bringing the directory to 368 listed items.
