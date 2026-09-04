@@ -126,6 +126,7 @@ Collections show how different authors package instructions, scripts, examples, 
 - [dzhng/skills](https://github.com/dzhng/skills) | ⭐ 534 - Personal agent skill collection covering coding, research, browser work, graphics, and other reusable task workflows.
 - [agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) | ⭐ 511 - Agent Skills standards and best practices for common programming languages, frameworks, mobile stacks, and web application work.
 - [yichen-skills](https://github.com/mcncarl/yichen-skills) | ⭐ 504 - Personal skill collection for reusable agent workflows and task-specific instructions.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | ⭐ 491 - Source-installable skills for agent-driven video planning, composition, editing, generation, captions, rendering, and QA.
 - [awesome-pm-skills](https://github.com/menkesu/awesome-pm-skills) | ⭐ 371 - Product management skill collection based on Lenny's Podcast, with Claude Code and Cursor workflows for PM research, strategy, and shipping.
 - [happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) | ⭐ 295 - Practical skill plugins designed for Claude Code.
 - [claude-code-skills](https://github.com/whawkinsiv/claude-code-skills) | ⭐ 218 - End-to-end software development lifecycle skills for founders building SaaS with AI tools.
