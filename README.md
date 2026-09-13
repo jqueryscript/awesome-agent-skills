@@ -89,6 +89,7 @@ First-party skill files are the best fit for vendor APIs, model ecosystems, and 
 - [BFL Agent Skills](https://docs.bfl.ai/api_integration/skills_integration) - Reusable capabilities that teach AI agents how to work with FLUX models.
 - [Firecrawl Skills](https://docs.firecrawl.dev/sdks/cli) - An easy way for AI agents such as Claude Code, Antigravity and OpenCode to use Firecrawl through the CLI.
 - [Manus Skills](https://manus.im/blog/manus-skills) - Manus' official agent skills.
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases.
 
 ## Skill Collections
 
