@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 426 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 427 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -196,6 +196,7 @@ Testing tools check behavior, web performance, and quality signals before genera
 - [evals-skills](https://github.com/hamelsmu/evals-skills) | ⭐ 1.4k - Evaluation skills for testing AI systems, reviewing outputs, and designing repeatable eval workflows.
 - [skillsbench](https://github.com/benchflow-ai/skillsbench) | ⭐ 1.4k - Benchmark suite for measuring how well agent skills work and how effectively agents use them.
 - [app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) | ⭐ 1.2k - Preflight checks for iOS and macOS projects before App Store submission.
+- [agent-qa](https://github.com/vostride/agent-qa) | ⭐ 885 - Source-available under FSL-1.1-ALv2, with three skills for authoring natural-language web/mobile regression tests, triaging runs, and debugging failures through its CLI and MCP server.
 - [guard-skills](https://github.com/amElnagdy/guard-skills) | ⭐ 881 - Quality-gate skills that catch common AI-generated failure modes in code, tests, and documentation.
 - [skillgrade](https://github.com/mgechev/skillgrade) | ⭐ 532 - Unit-test style framework for checking whether agent skills behave as intended across supported coding agents.
 - [flutter-skill](https://github.com/ai-dashboad/flutter-skill) | ⭐ 324 - MCP-based end-to-end testing for Flutter, mobile, web, desktop, and other application platforms.
@@ -665,6 +666,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill�
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### September 19, 2026
+
+- Added Agent QA to Testing and QA Skills, bringing the directory to 427 listed items.
 
 ### September 15, 2026
 
