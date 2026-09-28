@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 444 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 453 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -158,6 +158,7 @@ This group is about layout judgment, interface polish, interaction quality, and 
 
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 90.4k - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) | ⭐ 41.4k - A collection of skills that improve how AI tools write frontend code.
+- [hallmark](https://github.com/nutlope/hallmark) | ⭐ 29.2k - Design skill that guides Claude Code, Cursor, and Codex toward more deliberate interface choices and away from generic AI-generated styling.
 - [scroll-world](https://github.com/oso95/scroll-world) | ⭐ 4.6k - Agent skill for building scroll-scrubbed, continuous 3D landing-page journeys with generated scenes and camera flights.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) | ⭐ 2.6k - Design-focused Claude Code skills for frontend work, animation, and product interface polish.
 - [make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | ⭐ 2k - Interface-detail skill based on practical UI refinements for interaction feel, layout, and polish.
@@ -187,6 +188,7 @@ Review tools look at diffs, plans, architecture, and missed edge cases before co
 - [improve](https://github.com/shadcn/improve) | ⭐ 4.6k - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [code-review-expert](https://github.com/sanyuan0704/code-review-expert) | ⭐ 3.6k - A comprehensive code review skill for AI agents.
 - [sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) | ⭐ 3.6k - Expert code review skill: SOLID, security, performance, error handling, boundary conditions.
+- [PR Lens](https://github.com/coldteadotai/pr-lens) | ⭐ 1.7k - Visualizes pull request architecture and data flow in animated diagrams; available as a GitHub App, Action, CLI, and agent skill.
 - [code-review-skill](https://github.com/awesome-skills/code-review-skill) | ⭐ 1.1k - Code review skill for Claude Code, with checks for React, Vue, Rust, TypeScript, TanStack Query, and related stacks.
 - [make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) | ⭐ 424 - Local review workflow for static HTML folders, with page comments and edits applied back to the files.
 
@@ -197,7 +199,8 @@ Testing tools check behavior, web performance, and quality signals before genera
 - [web-quality-skills](https://github.com/addyosmani/web-quality-skills) | ⭐ 2.2k - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 - [evals-skills](https://github.com/hamelsmu/evals-skills) | ⭐ 1.4k - Evaluation skills for testing AI systems, reviewing outputs, and designing repeatable eval workflows.
 - [skillsbench](https://github.com/benchflow-ai/skillsbench) | ⭐ 1.4k - Benchmark suite for measuring how well agent skills work and how effectively agents use them.
-- [app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) | ⭐ 1.2k - Preflight checks for iOS and macOS projects before App Store submission.
+- [AI Evals Course Skills](https://github.com/ai-evals-course/evals-skills) | ⭐ 1.4k - Skills for building product-specific AI evaluations, including error analysis, evaluator design, and human review interfaces.
+- [app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) | ⭐ 1.4k - Checks iOS and macOS projects, metadata, and configuration for common App Store submission problems.
 - [guard-skills](https://github.com/amElnagdy/guard-skills) | ⭐ 881 - Quality-gate skills that catch common AI-generated failure modes in code, tests, and documentation.
 - [skillgrade](https://github.com/mgechev/skillgrade) | ⭐ 532 - Unit-test style framework for checking whether agent skills behave as intended across supported coding agents.
 - [flutter-skill](https://github.com/ai-dashboad/flutter-skill) | ⭐ 324 - MCP-based end-to-end testing for Flutter, mobile, web, desktop, and other application platforms.
@@ -372,6 +375,7 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) | ⭐ 555 - Image, video, 3D, and audio generation skills for Higgsfield AI.
 - [clipify](https://github.com/louisedesadeleer/clipify) | ⭐ 434 - Claude Code skill for turning long videos into short social clips with moment selection, reframing, face tracking, and captions.
 - [system-atlas](https://github.com/inkboard/system-atlas) | ⭐ 370 - Agent skill that turns architecture discussions into an interactive isometric map and a generated SYSTEM.md from one data file.
+- [product-film-skill](https://github.com/Rieranthony/product-film-skill) | ⭐ 284 - Claude Code skill for producing product films with Remotion, using a project's design system, components, and brand assets.
 - [gpt-image-skill](https://github.com/GENEXIS-AI/gpt-image-skill) | ⭐ 152 - Image generation and editing skill for Codex, Claude Code, and compatible local agents using a ChatGPT subscription.
 - [nano-image-generator-skill](https://github.com/lxfater/nano-image-generator-skill) | ⭐ 126 - A Claude Code skill for image generation using Gemini 3 Pro Preview.
 - [remotion-dev/skills](https://www.remotion.dev/docs/ai/skills) - Create videos programmatically.
@@ -384,6 +388,7 @@ Search-focused projects handle page audits, citability checks, schema review, te
 - [claude-seo](https://github.com/AgriciDaniel/claude-seo) | ⭐ 8.7k - Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
 - [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | ⭐ 8.1k - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.
 - [NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.8k - Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads.
+- [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | ⭐ 2.6k - SEO and GEO skills for keyword research, site audits, rank tracking, backlinks, and AI referral analysis through the Ryze MCP connector.
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | ⭐ 2.1k - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking.
 - [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) | ⭐ 1.2k - AEO and GEO checks for websites, with framework-aware fixes and AI-answer visibility review.
 - [claude-blog](https://github.com/AgriciDaniel/claude-blog) | ⭐ 1.1k - Blog workflow suite for Claude Code, with sub-skills, agents, ranking checks, and AI citation review.
@@ -431,7 +436,9 @@ Industry projects package domain rules for professional fields where generic cod
 - [ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) | ⭐ 1.5k - Legal analysis and document-review skill system for Claude Code and AI agents.
 - [investorskills](https://github.com/questflowai/investorskills) | ⭐ 1.5k - Structured investing judgment skills based on how investors filter opportunities, size risk, and act under uncertainty.
 - [internet-court-skill](https://github.com/internet-court/internet-court-skill) | ⭐ 1.4k - Agent skill for agent-to-agent commerce, delegated permissions, payments, escrow, and dispute resolution.
+- [TourMind Booking Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | ⭐ 1.3k - Travel booking skills for comparing hotel rates and airfares, making reservations, and managing bookings through the TourMind API.
 - [medical-research-skills](https://github.com/aipoch/medical-research-skills) | ⭐ 1.2k - Medical research skills for protocol design, data analysis, evidence review, and academic writing.
+- [Filtmall Shopping](https://github.com/filtalgo/Filtmall-Shopping-Skill) | ⭐ 1.1k - Shopping skill for product search, same-product price comparison, checkout, order tracking, and after-sales tasks on Filtmall.
 - [ClawBio](https://github.com/ClawBio/ClawBio) | ⭐ 993 - Bioinformatics-native agent skill library for local-first and reproducible research workflows.
 - [bioSkills](https://github.com/GPTomics/bioSkills) | ⭐ 945 - Bioinformatics SKILLS.md files for agents such as Claude Code.
 - [opc-skills](https://github.com/ReScienceLab/opc-skills) | ⭐ 937 - Agent Skills for solopreneur workflows and independent business operations.
@@ -451,6 +458,7 @@ DevOps projects deal with build systems, infrastructure code, deployment checks,
 
 - [terraform-skill](https://github.com/antonbabenko/terraform-skill) | ⭐ 2k - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns.
 - [Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) | ⭐ 1.1k - An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings.
+- [golive-skill](https://github.com/mikehasa/golive-skill) | ⭐ 1.0k - Agent skill and CLI for planning, approving, applying, and checking hosting, database, domain, email, and payment setup on your own accounts.
 
 ## Cloud Development Skills
 
@@ -510,6 +518,7 @@ Platform projects are tied to products, ecosystems, devices, and runtimes with t
 - [GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | ⭐ 2.9k - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing.
 - [gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill) | ⭐ 2.9k - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing.
 - [skills](https://github.com/microsoft/skills) | ⭐ 2.5k - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents.
+- [TypeSafe Agent Skills](https://github.com/typesafe-ai/skills) | ⭐ 2.3k - Skill for building TypeSafe System One workflows with typed decisions and probabilities.
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) | ⭐ 2.1k - Agent skill for writing effective Seedance 2.0 video-generation prompts, including constraints, camera language, prompt patterns, and templates.
 - [Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) | ⭐ 2k - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | ⭐ 1.9k - Seedance 2.0 prompt-engineering skill for Claude Code, built for ByteDance's **Seedance 2.0** (即梦) video generation platform.
@@ -683,6 +692,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill�
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### September 28, 2026
+
+- Added 9 skills and related tools, updated app-store-preflight-skills, and refreshed the SEO, platform, code review, testing, design, industry, DevOps, and visual categories. The directory now has 453 listed items.
 
 ### September 21, 2026
 
