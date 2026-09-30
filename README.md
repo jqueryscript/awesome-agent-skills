@@ -296,6 +296,7 @@ Research projects gather, compare, and synthesize information before writing, co
 - [research-skills](https://github.com/luwill/research-skills) | ⭐ 677 - Research workflow skills built from common research processes, experience, and repeatable methods.
 - [RigorPilot-Skills](https://github.com/lllllllama/RigorPilot-Skills) | ⭐ 492 - Research-first Agent Skills for deep learning experiments, reproducibility, evidence tracking, and auditable changes.
 - [google-ai-mode-skill](https://github.com/PleasePrompto/google-ai-mode-skill) | ⭐ 177 - Claude Code skill for free Google AI Mode search with citations.
+- [soulscrape](https://github.com/hraness/soulscrape) | ⭐ 1 - Agent skill that turns sources about one person into a dated dossier with every claim cited, to keep private or publish.
 
 ## Thinking and Reasoning Skills
 
