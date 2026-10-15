@@ -131,6 +131,8 @@ Collections show how different authors package instructions, scripts, examples, 
 - [happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) | ⭐ 295 - Practical skill plugins designed for Claude Code.
 - [claude-code-skills](https://github.com/whawkinsiv/claude-code-skills) | ⭐ 218 - End-to-end software development lifecycle skills for founders building SaaS with AI tools.
 
+- [Aident Loadout (aident-skill)](https://github.com/Aident-AI/aident-skill) | ⭐ 6 - Remote MCP server plus 400+ expert-built Skills for Codex, Claude Code, Cursor, ChatGPT and other agents; credentials stay in Aident Vault. ([aident.ai](https://aident.ai))
+
 ## Coding and Refactoring Skills
 
 Cleaner code changes matter here: smaller diffs, simpler structure, fewer unnecessary edits, and practical engineering habits.
