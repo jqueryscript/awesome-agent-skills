@@ -160,7 +160,7 @@ Cleaner code changes matter here: smaller diffs, simpler structure, fewer unnece
 This group is about layout judgment, interface polish, interaction quality, and screens that feel native to the product.
 
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 145.0k - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) | ⭐ 109.8k - A collection of skills that improve how AI tools write frontend code. 
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) | ⭐ 109.8k - A collection of skills that improve how AI tools write frontend code.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) | ⭐ 53.4k - Design-focused Claude Code skills for frontend work, animation, and product interface polish.
 - [hallmark](https://github.com/nutlope/hallmark) | ⭐ 47.5k - Design skill that guides Claude Code, Cursor, and Codex toward more deliberate interface choices and away from generic AI-generated styling.
 - [ai-design-skills](https://github.com/elayadesign/ai-design-skills) | ⭐ 14.1k - Design skills for AI coding tools, starting with a landing-page workflow for structure, copy, typography, spacing, and motion.
@@ -289,14 +289,14 @@ Research projects gather, compare, and synthesize information before writing, co
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 56.1k - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | ⭐ 55.3k - Academic Research Skills for Claude Code: research → write → review → revise → finalize.
 - [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | ⭐ 18.6k - Lightweight Markdown-only skills for autonomous ML research.
-- [AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) | ⭐ 14.3k - Comprehensive open-source library of AI research and engineering skills for any AI model. 
+- [AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) | ⭐ 14.3k - Comprehensive open-source library of AI research and engineering skills for any AI model.
 - [anysearch-skill](https://github.com/anysearch-ai/anysearch-skill) | ⭐ 6.8k - Unified real-time search engine skill for AI agents.
 - [autoresearch](https://github.com/uditgoenka/autoresearch) | ⭐ 6.8k - Autonomous Claude Code research workflow built for repeated improvement.
 - [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | ⭐ 5.9k - Photo geolocation skill that compares OpenStreetMap geometry, elevation profiles, satellite imagery, and street view to identify camera positions and directions.
 - [social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) | ⭐ 5.5k - Social media research skills for AI agents powered by ScrapeCreators.
 - [science-skills](https://github.com/google-deepmind/science-skills) | ⭐ 3.4k - Google DeepMind skills for scientific research workflows, experiments, analysis, and reproducible technical work.
 - [codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) | ⭐ 3.1k - Codex autoresearch skill for iterative research loops that modify, verify, keep useful changes, and repeat.
-- [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) | ⭐ 2.5k - 
+- [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) | ⭐ 2.5k
 - [Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) | ⭐ 2.5k - Deep research skill for Claude Code, OpenCode, and Codex, with structured research steps and human review points.
 - [ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | ⭐ 1.8k - Genealogy research skill for former Soviet territories, with archival record searches, historical jurisdictions, name variants, evidence registers, and family-history reports.
 - [user-research-skill](https://github.com/cookiy-ai/user-research-skill) | ⭐ 1.6k - User research skill for AI interviews, synthetic users, quantitative surveys, and participant recruitment workflows.
@@ -369,7 +369,7 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) | ⭐ 2.6k - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 - [pixel2motion](https://github.com/nolangz/pixel2motion) | ⭐ 2.6k - Codex and Claude skill for turning raster logos into SVG logo animations, HTML motion demos, and GIF/video previews.
 - [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | ⭐ 2.4k - Agent skill for turning Chinese story copy or ordered images into a silent hand-drawn diary-comic animation.
-- [logo-generator-skill](https://github.com/op7418/logo-generator-skill) | ⭐ 2.3k - Professional SVG logo generator with high-end showcase presentations. 
+- [logo-generator-skill](https://github.com/op7418/logo-generator-skill) | ⭐ 2.3k - Professional SVG logo generator with high-end showcase presentations.
 - [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) | ⭐ 1.9k - Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.
 - [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) | ⭐ 1.9k - Image, video, 3D, and audio generation skills for Higgsfield AI.
 - [teardown](https://github.com/elvarofficial/teardown) | ⭐ 1.8k - Claude Code skill for interactive 3D machine simulators with removable parts, live numerical panels, offline HTML output, and recorded tours.
@@ -400,7 +400,7 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [open-3d-skills](https://github.com/Moh4696/open-3d-skills) | ⭐ 239 - Eight agent skills for Three.js scenes, scroll-driven films, transparent video, cursor animation, exploded views, browser checks, and frame-by-frame recording.
 - [gpt-image-skill](https://github.com/GENEXIS-AI/gpt-image-skill) | ⭐ 184 - Image generation and editing skill for Codex, Claude Code, and compatible local agents using a ChatGPT subscription.
 - [nano-image-generator-skill](https://github.com/lxfater/nano-image-generator-skill) | ⭐ 129 - A Claude Code skill for image generation using Gemini 3 Pro Preview.
-- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | ⭐ 33 - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). 
+- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | ⭐ 33 - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI).
 
 ## SEO and GEO Skills
 
