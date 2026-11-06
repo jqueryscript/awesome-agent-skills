@@ -131,6 +131,7 @@ Collections show how different authors package instructions, scripts, examples, 
 - [awesome-pm-skills](https://github.com/menkesu/awesome-pm-skills) | ⭐ 371 - Product management skill collection based on Lenny's Podcast, with Claude Code and Cursor workflows for PM research, strategy, and shipping.
 - [happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) | ⭐ 295 - Practical skill plugins designed for Claude Code.
 - [claude-code-skills](https://github.com/whawkinsiv/claude-code-skills) | ⭐ 218 - End-to-end software development lifecycle skills for founders building SaaS with AI tools.
+- [Faber Agent Skills](https://github.com/faberlang/faberlang.dev/tree/main/static/.well-known/agent-skills) | ⭐ 0 - Agent Skills for Faber (install, language, packages, corpus): a statically typed language for coding agents and human authors.
 
 ## Coding and Refactoring Skills
 
