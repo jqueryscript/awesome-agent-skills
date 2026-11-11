@@ -307,6 +307,7 @@ Research projects gather, compare, and synthesize information before writing, co
 - [research-skills](https://github.com/luwill/research-skills) | ⭐ 880 - Research workflow skills built from common research processes, experience, and repeatable methods.
 - [RigorPilot-Skills](https://github.com/lllllllama/RigorPilot-Skills) | ⭐ 485 - Research-first Agent Skills for deep learning experiments, reproducibility, evidence tracking, and auditable changes.
 - [google-ai-mode-skill](https://github.com/PleasePrompto/google-ai-mode-skill) | ⭐ 294 - Claude Code skill for free Google AI Mode search with citations.
+- [FlashData research skills](https://github.com/rocosen/flashdata-mcp/tree/main/skills) | ⭐ 0 - Fifteen task Skills for Google search and YouTube search, metadata, transcripts, captions, channels, suggestions and downloads; API key and paid credits required.
 
 ## Thinking and Reasoning Skills
 
