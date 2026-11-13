@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 488 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 489 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -406,6 +406,8 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [gpt-image-skill](https://github.com/GENEXIS-AI/gpt-image-skill) | ⭐ 184 - Image generation and editing skill for Codex, Claude Code, and compatible local agents using a ChatGPT subscription.
 - [nano-image-generator-skill](https://github.com/lxfater/nano-image-generator-skill) | ⭐ 129 - A Claude Code skill for image generation using Gemini 3 Pro Preview.
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | ⭐ 36 - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI).
+
+- [Kling AI Plugin Skill (Global)](https://www.npmjs.com/package/@klingai/plugin-global) / [China](https://www.npmjs.com/package/@klingai/plugin-cn) - Official `kling-ai-plugin` Skill and bundled CLI for image/video generation and task tracking, with regional OAuth accounts and credit consumption.
 
 ## SEO and GEO Skills
 
