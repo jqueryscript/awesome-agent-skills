@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 488 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 489 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -289,6 +289,7 @@ Research projects gather, compare, and synthesize information before writing, co
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ 66.6k - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 56.1k - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | ⭐ 55.3k - Academic Research Skills for Claude Code: research → write → review → revise → finalize.
+- [AIHOT](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot) | ⭐ 22.2k (repository) - Research skill for searching Chinese AI news and reading briefs through the hosted AIHOT service without an API key.
 - [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | ⭐ 18.6k - Lightweight Markdown-only skills for autonomous ML research.
 - [AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) | ⭐ 14.3k - Comprehensive open-source library of AI research and engineering skills for any AI model.
 - [anysearch-skill](https://github.com/anysearch-ai/anysearch-skill) | ⭐ 6.8k - Unified real-time search engine skill for AI agents.
