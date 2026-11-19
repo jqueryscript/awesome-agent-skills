@@ -749,108 +749,108 @@ Check the skill structure, installation steps, scripts, hooks, dependencies, per
 
 ### November 19, 2026
 
-- Added 16 projects for model training and inference, design, motion graphics, marketing, trading research, SwiftUI, and planning. Updated the Obsidian Skills link and removed three duplicate listings. The directory now has 501 listed items.
+- Added 16 projects for model training and inference, design, motion graphics, marketing, trading research, SwiftUI, and planning. Updated the Obsidian Skills link and removed three duplicate listings.
 
 ### November 10, 2026
 
-- Added six entries for product UI illustrations, motion graphics, creative asset generation, Socratic tutoring, and native macOS development. The directory now has 488 listed items.
+- Added six entries for product UI illustrations, motion graphics, creative asset generation, Socratic tutoring, and native macOS development.
 
 ### November 4, 2026
 
-- Added 10 skills for animation, 3D websites, architecture diagrams, interface design, and genealogy research. Refreshed GitHub Stars and sorting in the affected categories, updated the lazyweb-skill URL, and merged the renamed scientific skills duplicate. The directory now has 482 listed items.
+- Added 10 skills for animation, 3D websites, architecture diagrams, interface design, and genealogy research. Refreshed GitHub Stars and sorting in the affected categories, updated the lazyweb-skill URL, and merged the renamed scientific skills duplicate.
 
 ### October 29, 2026
 
-- Added leanrea, tstack, blender-skills, day-trader-skill, and BeautifulRust. Updated the existing Remotion entry to its GitHub repository. Refreshed GitHub Stars and sorting in the affected categories. The directory now has 473 listed items.
+- Added leanrea, tstack, blender-skills, day-trader-skill, and BeautifulRust. Updated the existing Remotion entry to its GitHub repository. Refreshed GitHub Stars and sorting in the affected categories.
 
 ### October 22, 2026
 
-- Added Apple Design Skill, sell-sessions-skill, Unreal Engine Skills for Claude Code, kotlin-footguns, and juliobsz/skills. Refreshed GitHub Stars and sorting in the affected categories. The directory now has 468 listed items.
+- Added Apple Design Skill, sell-sessions-skill, Unreal Engine Skills for Claude Code, kotlin-footguns, and juliobsz/skills. Refreshed GitHub Stars and sorting in the affected categories.
 
 ### October 15, 2026
 
-- Added animate, anatomy, geo-sleuth, founder-skill, youtube-agent-skill, and instagram-agent-skill. Refreshed GitHub Stars and sorting in the visual, research, industry, and marketing categories. The directory now has 463 listed items.
+- Added animate, anatomy, geo-sleuth, founder-skill, youtube-agent-skill, and instagram-agent-skill. Refreshed GitHub Stars and sorting in the visual, research, industry, and marketing categories.
 
 ### October 7, 2026
 
-- Added MengTo/Skills, better-icons, awesome-gamedev-agent-skills, and motion-video-kit. Refreshed GitHub Stars and sorting in the UI and design, industry, and visual categories. The directory now has 457 listed items.
+- Added MengTo/Skills, better-icons, awesome-gamedev-agent-skills, and motion-video-kit. Refreshed GitHub Stars and sorting in the UI and design, industry, and visual categories.
 
 ### September 28, 2026
 
-- Added 9 skills and related tools, updated app-store-preflight-skills, and refreshed the SEO, platform, code review, testing, design, industry, DevOps, and visual categories. The directory now has 453 listed items.
+- Added 9 skills and related tools, updated app-store-preflight-skills, and refreshed the SEO, platform, code review, testing, design, industry, DevOps, and visual categories.
 
 ### September 21, 2026
 
-- Added 18 skills and related tools, refreshed BrowserSkill's GitHub Stars, and updated the UI, browser, security, writing, marketing, industry, workflow, and plugin categories, bringing the directory to 444 listed items.
+- Added 18 skills and related tools, refreshed BrowserSkill's GitHub Stars, and updated the UI, browser, security, writing, marketing, industry, workflow, and plugin categories.
 
 ### September 15, 2026
 
-- Added 3 skills and related tools across visual, marketing, and industry categories, bringing the directory to 426 listed items.
+- Added 3 skills and related tools across visual, marketing, and industry categories.
 
 ### September 3, 2026
 
-- Added 3 skills and related tools across visual and workflow categories, bringing the directory to 417 listed items.
+- Added 3 skills and related tools across visual and workflow categories.
 
 ### August 30, 2026
 
-- Added 8 skills and related tools across coding, UI, writing, visual, and marketing categories, bringing the directory to 414 listed items.
+- Added 8 skills and related tools across coding, UI, writing, visual, and marketing categories.
 
 ### August 23, 2026
 
-- Added 9 skills and related tools across industry, writing, thinking, browser, visual, UI, workflow, and plugin categories, bringing the directory to 406 listed items.
+- Added 9 skills and related tools across industry, writing, thinking, browser, visual, UI, workflow, and plugin categories.
 
 ### August 20, 2026
 
-- Added 5 skills and related tools across UI, writing, marketing, platform, and plugin categories, bringing the directory to 397 listed items.
+- Added 5 skills and related tools across UI, writing, marketing, platform, and plugin categories.
 
 ### August 9, 2026
 
-- Added 7 skills and related tools across collection, UI, writing, visual, platform, and workflow categories, bringing the directory to 392 listed items.
+- Added 7 skills and related tools across collection, UI, writing, visual, platform, and workflow categories.
 
 ### July 28, 2026
 
-- Added 12 skills and related tools across UI, writing, research, visual, marketing, industry, framework, and workflow categories, bringing the directory to 385 listed items.
+- Added 12 skills and related tools across UI, writing, research, visual, marketing, industry, framework, and workflow categories.
 
 ### July 21, 2026
 
-- Added 5 skills and related tools across collection, UI, writing, productivity, and marketing categories, bringing the directory to 373 listed items.
+- Added 5 skills and related tools across collection, UI, writing, productivity, and marketing categories.
 
 ### July 14, 2026
 
-- Added 12 skills and related tools across collection, coding, UI, testing, visual, marketing, industry, platform, and skill-builder categories, bringing the directory to 368 listed items.
+- Added 12 skills and related tools across collection, coding, UI, testing, visual, marketing, industry, platform, and skill-builder categories.
 
 ### June 29, 2026
 
-- Added 7 skills and skill-related tools across official, collection, UI, research, marketing, and workflow categories, bringing the directory to 351 listed items.
+- Added 7 skills and skill-related tools across official, collection, UI, research, marketing, and workflow categories.
 
 ### June 26, 2026
 
-- Added 8 skills and skill-related tools across UI, security, documentation, visual, framework, and platform categories, bringing the directory to 344 listed items.
-- Added 33 skills and skill-related tools across official, collection, reasoning, data, SEO, marketing, industry, cloud, framework, platform, workflow, testing, security, and skill-builder categories, bringing the directory to 336 listed items.
+- Added 8 skills and skill-related tools across UI, security, documentation, visual, framework, and platform categories.
+- Added 33 skills and skill-related tools across official, collection, reasoning, data, SEO, marketing, industry, cloud, framework, platform, workflow, testing, security, and skill-builder categories.
 
 ### June 24, 2026
 
-- Added new Agent Skills and related tools, bringing the directory to 303 listed items.
-- Added new Agent Skills and related tools, bringing the directory to 269 listed items.
+- Added new Agent Skills and related tools.
+- Added new Agent Skills and related tools.
 
 ### June 23, 2026
 
-- Added new Agent Skills and related tools, bringing the directory to 240 listed items.
+- Added new Agent Skills and related tools.
 
 ### June 21, 2026
 
-- Added Anthropic's official Skills as individual directory entries, bringing the directory to 217 listed items.
+- Added Anthropic's official Skills as individual directory entries.
 
 ### June 20, 2026
 
-- Added new Agent Skills and related tools, bringing the directory to 200 listed items.
+- Added new Agent Skills and related tools.
 - Added Industry Skills for domain-specific legal and automotive skill packs.
 
 ### June 17, 2026
 
-- Added new Agent Skills and related tools, bringing the directory to 177 listed items.
+- Added new Agent Skills and related tools.
 - Updated category descriptions and selected summaries for a more natural directory style.
 
 ### June 15, 2026
 
-- Initial directory created for 160+ high-star Agent Skills on GitHub for coding agents.
+- Launched the directory with popular Agent Skills on GitHub for coding agents.
