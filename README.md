@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 501 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 504 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -118,6 +118,7 @@ Collections show how different authors package instructions, scripts, examples, 
 - [agent-toolkit](https://github.com/softaworks/agent-toolkit) | ⭐ 2.7k - A curated collection of skills for AI coding agents.
 - [pi-skills](https://github.com/badlogic/pi-skills) | ⭐ 2.7k - Skills for the pi coding agent, compatible with Claude Code, Codex CLI, Amp, and Droid.
 - [openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) | ⭐ 2.2k - Curated, weekly updated OpenClaw skills collection with 1200+ skills for AI agents.
+- [Product Engineer Skills](https://github.com/Trystan-SA/product-engineer-skills) | ⭐ 2.1k - Skills for auditing user flows, testing click budgets, planning feature adoption, adding analytics, and running A/B tests.
 - [context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | ⭐ 1.8k - Claude Code skills for context engineering, agent result quality, and compatible AI coding tools.
 - [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | ⭐ 1.6k - Large cross-agent skill library with product, planning, engineering, and workflow skills for Claude, ChatGPT, Gemini, Cursor, Codex, and related tools.
 - [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | ⭐ 1.5k - Claude Code skills marketplace with production-ready development workflows.
@@ -360,6 +361,7 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | ⭐ 8.2k - Claude Code / Codex skill for Xiaohongshu carousels and WeChat 21:9 + 1:1 artwork pairs.
 - [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | ⭐ 8.1k - Local FFmpeg agent skill with 40 tools for video editing, audio cleanup, captions, overlays, rendering, and delivery checks.
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | ⭐ 8k - Codex skill for creating HTML presentation decks and slide-style visual documents.
+- [Stickman Video Director](https://github.com/kaomei/stickman-video-director) | ⭐ 7.9k - Agent skill for turning scripts into animated stick-figure videos with narration, captions, and sound effects.
 - [architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) | ⭐ 7.6k - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files.
 - [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | ⭐ 7.5k - Codex skill for producing quiet, minimal zine-style editorial poster prompts and images.
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) | ⭐ 7.5k - Remotion-maintained skills for creating React videos, animations, captions, and map sequences, previewing compositions, and rendering video or still images.
@@ -405,6 +407,7 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | ⭐ 937 - Six Claude Code skills for animated reels, including cartoon explainers, stick figures, line art, map routes, exploded views, and line graphs.
 - [pexo-skills](https://github.com/pexoai/pexo-skills) | ⭐ 834 - Open-source Agent Skills for content creation across images, audio, and video.
 - [cinematic-skill](https://github.com/Moh4696/cinematic-skill) | ⭐ 795 - Builds narrated films from code and ties camera moves over photos, maps, and graphics to the voiceover.
+- [sprite-stacking](https://github.com/danielwh2/sprite-stacking) | ⭐ 735 - Agent skill that builds rotatable pixel-art sprites from four orthographic views and exports a 16-direction PNG sprite sheet.
 - [clipify](https://github.com/louisedesadeleer/clipify) | ⭐ 678 - Claude Code skill for turning long videos into short social clips with moment selection, reframing, face tracking, and captions.
 - [code-video-showcase](https://github.com/Moessif/code-video-showcase) | ⭐ 513 - Creates music-synced showcase videos with frame-by-frame web graphics, a Python-generated score, and FFmpeg.
 - [PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | ⭐ 510 - PowerPoint design skill for OpenCode, Claude Code, and Codex, with 40,000+ styles, Build Mode layout control, AI image generation, and editable PPTX output.
@@ -746,6 +749,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill�
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### November 24, 2026
+
+- Added Stickman Video Director, Product Engineer Skills, and sprite-stacking.
 
 ### November 19, 2026
 
