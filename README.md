@@ -312,6 +312,7 @@ Research projects gather, compare, and synthesize information before writing, co
 - [research-skills](https://github.com/luwill/research-skills) | ⭐ 880 - Research workflow skills built from common research processes, experience, and repeatable methods.
 - [RigorPilot-Skills](https://github.com/lllllllama/RigorPilot-Skills) | ⭐ 485 - Research-first Agent Skills for deep learning experiments, reproducibility, evidence tracking, and auditable changes.
 - [google-ai-mode-skill](https://github.com/PleasePrompto/google-ai-mode-skill) | ⭐ 294 - Claude Code skill for free Google AI Mode search with citations.
+- [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | ⭐ 41 - Agent skill that fetches YouTube transcripts with timestamps, searches videos and channels, and browses playlists.
 
 ## Thinking and Reasoning Skills
 
